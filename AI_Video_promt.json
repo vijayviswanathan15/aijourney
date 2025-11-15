@@ -1,0 +1,49 @@
+{
+  "project_title": "Wisdom at the Shore",
+  "description": "A powerful cinematic AI-generated video of a South Indian boy sharing a profound message near the sea.",
+  "video_parts": [
+    {
+      "part_number": 1,
+      "title": "Boy Delivering Wisdom",
+      "duration_sec": 8,
+      "scene": {
+        "location": "Sunset beach on the Indian coastline",
+        "environment_details": [
+          "gentle ocean waves hitting the rocks",
+          "golden sunlight reflecting on water",
+          "cool wind blowing through the boy’s hair",
+          "seagulls flying in distance",
+          "soft sand and wet shoreline"
+        ]
+      },
+      "character": {
+        "type": "child",
+        "age": 8,
+        "ethnicity": "South Indian",
+        "gender": "male",
+        "appearance": {
+          "skin_tone": "medium brown",
+          "hair": "short, black, slightly messy due to sea breeze",
+          "clothing": "simple cotton T-shirt (light color), shorts, barefoot on the sand"
+        },
+        "emotion": "calm, wise, confident"
+      },
+      "camera_style": {
+        "framing": "medium close-up focused on the boy with shoreline behind",
+        "movement": "slow cinematic push-in as he speaks",
+        "quality": "4K ultra-realistic, natural color grading"
+      },
+      "dialogue": {
+        "exact_text": "Known is a drop, unknown is an ocean.",
+        "narration_instruction": "Speak clearly and softly with innocence and wisdom. DO NOT correct or modify the text."
+      },
+      "extras": {
+        "effects": [
+          "soft breeze animation",
+          "subtle lens flare from sunset",
+          "realistic audio of sea waves"
+        ]
+      }
+    }
+  ]
+}
